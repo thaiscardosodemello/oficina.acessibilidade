@@ -1,4 +1,4 @@
-<img height="200px" src="https://raw.githubusercontent.com/thaiscardosodemello/oficina.acessibilidade/refs/heads/main/assets/oficina-de-acessibilidade.png" alt="Oficina de Acessibilidade"/>
+<img src="https://raw.githubusercontent.com/thaiscardosodemello/oficina.acessibilidade/refs/heads/main/src/assets/img/oficina-de-acessibilidade.png" alt="Oficina de Acessibilidade"/>
 
 <h1 align="center" style="border-bottom: none!important;padding-bottom:0px!important;">Oficina de Acessibilidade</h1>
 <h3 align="center">Abner Joia</h3>
